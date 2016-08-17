@@ -367,7 +367,7 @@ function changeSelect(value) {
   document.getElementById("output2").innerHTML = thishtml;
 }
 
-$( document ).ready(function() {
+jQuery( document ).ready(function() {
     console.log(jsonStats);
     fillSelect(jsonStats);
 }); // doc ready
