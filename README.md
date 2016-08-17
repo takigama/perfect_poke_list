@@ -35,7 +35,8 @@ This page also doesnt work with githubs htmlpreviewer for reason, and i cant
 be bothered figuring out why - such is life.
 
 I probably wouldn't put it online if I were you, though realistically its just
-a single html file, so it shouldnt break anything really.
+a single html file, so it shouldnt break anything really. Surfice it to say
+if it does burn down your house, its not my fault.
 
 
 # Attributions & Thanks:
