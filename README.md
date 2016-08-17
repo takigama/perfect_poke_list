@@ -6,6 +6,10 @@ a Pokemon has perfect IV's.
 Select a pokemon from the top drop down box and it gives you a list for each level
 of that pokemon.
 
+I wrote this cause I wanted a quick way to eliminate pokemon from my bag. The IV
+calculators are nice, but they're just too slow to use. This gives you a list
+you can easily compare to the pokemon in your bag.
+
 Enjoy!
 
 # Attributions & Thanks:
