@@ -14,6 +14,7 @@ Enjoy!
 
 # Attributions & Thanks:
 Stats come from: https://github.com/veekun/pokedex
+
 Code was written based on: https://pokemongo.gamepress.gg/pokemon-stats-advanced (though with some changes)
 
 # License:
