@@ -1,5 +1,5 @@
 // the main executive stuff
-var jsonStats;
+//var jsonStats;
 
 
 function getcpm(val) {
@@ -368,20 +368,21 @@ function changeSelect(value) {
 }
 
 $( document ).ready(function() {
-  var pokeNames;
-
-  $.ajax({
-    dataType: "json",
-    url: "stats.json"
-  }).done(function (data) {
-    jsonStats = data;
-    //console.log(jsonStats);
+    console.log(jsonStats);
     fillSelect(jsonStats);
-  });
-
 }); // doc ready
 
+  ////var pokeNames;
+//
+  //$.ajax({
+    //dataType: "json",
+    //url: "stats.json"
+  //}).done(function (data) {
+    //jsonStats = data;
+    ////console.log(jsonStats);
 
+  //});
+//
 
 /*
 pokeathlon_stat_id,local_language_id,name
